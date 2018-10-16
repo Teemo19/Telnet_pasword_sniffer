@@ -11,5 +11,5 @@ Things to do..
     
     * Capture those passwords
     
-    * if passwords , send it to an email using igp email encryption..
+    * if passwords , send it to an email using pgp email encryption..
     
